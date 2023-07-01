@@ -1,0 +1,8 @@
+export const MAIN_ROUTE = '/'
+export const SEARCH_ROUTE = '/search'
+export const PAGE_ROUTE = '/page'
+export const PROFILE_ROUTE = '/profile'
+export const DIRECT_ROUTE = '/direct'
+export const HOME_ROUTE = '/home'
+export const REGISTRATION_ROUTE = '/register'
+export const LOGIN_ROUTE = '/login'

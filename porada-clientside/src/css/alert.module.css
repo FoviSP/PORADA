@@ -1,0 +1,12 @@
+.alertMain{
+	position: fixed;
+    right: 5px;
+    top: 80%;
+    width:447px;
+    height:160px;
+}
+.alertTitle{
+	margin: 5px 0;
+	display: flex;
+	justify-content: space-between;
+}
