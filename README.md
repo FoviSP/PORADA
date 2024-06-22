@@ -7,5 +7,4 @@ NodeJS, ReactJS, HTML+CSS, JS, JSX, PostrgeSQL
 Для встановлення потребується доступ до мережі. Щоб почати встановлення додаткових матеріалів потрібно відкрити файл porada-portable.bat після чого почнеться скачування. У кінці скачування буде запущений сервер бази даних PostrgeSQL, клієнтська(frontend) частина та серверна(backend) частина. Після встановлення файл porada-portable.bat працює як запускатор сайту.
 
 ## Відеопоказ
-https://github.com/FoviSP/PORADA/tree/main/readme.data
-
+https://github.com/FoviSP/PORADA/assets/113719029/533154d7-a2df-46e7-a5cf-714e6bf771a1
